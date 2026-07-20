@@ -68,4 +68,4 @@ xlGam2.FontSize = 30;
 
 % yticks(0:50:ceil(max(max(f_plot))))
 f1.Position = [307   330   977   635];
-formatFig(f1, 4, 30)
+% formatFig(f1, 4, 30)
